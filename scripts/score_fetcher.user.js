@@ -17,11 +17,12 @@
         const SECRET_GITHUB_TOKEN = 'abcdefghijklmnopqrstuvwxyz1234567890'
         const MY_USERNAME = 'superkathiee'
 
-// EXODUS IS UNUSED PLEASE FILL NAMES UNDER TOMODACHI
-        const EXODUS_PLAYERS = [
+// PLEASE POPULATE PLAYERS BY TEAM BELOW SEPARATED BY A COMMA AFTER THE QUOTATION MARK
+
+        const STAR_PLAYERS = [
                     ]
 
-        const TOMODACHI_PLAYERS = [
+        const MOON_PLAYERS = [
             "kailey_kitty1995"
         ]
 
@@ -77,7 +78,7 @@
             "brightvale": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
             "kiko lake": "https://images.neopets.com/altador/altadorcup/2010/popups/kikolake/logo.png",
 	"neopia central": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-            "manually update": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png"
+            "manually update": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png"
         }
 
         const data = {};
@@ -90,7 +91,7 @@
             data.username = h2Text;
         }
 
-        if (EXODUS_PLAYERS.includes(data.username) || TOMODACHI_PLAYERS.includes(data.username)) {
+        if (STAR_PLAYERS.includes(data.username) || MOON_PLAYERS.includes(data.username)) {
             data.rank = document.querySelector('.team-title p').textContent.trim();
 
             const team_title_html = document.querySelector('.team-title').innerHTML;
@@ -200,17 +201,17 @@
             }
 
             const updateIfParticipant = async () => {
-                if (EXODUS_PLAYERS.includes(data.username)) {
-                    await updateScores('altater_scores.json', data, ALTATER_LOGOS, ALTATER_TEAMS[data.team_name]);
+                if (STAR_PLAYERS.includes(data.username)) {
+                    await updateScores('star_scores.json', data, CLASSIC_LOGOS, data.team_name);
                 }
-                if (TOMODACHI_PLAYERS.includes(data.username)) {
-                    await updateScores('tomodachi_scores.json', data, CLASSIC_LOGOS, data.team_name);
+                if (MOON_PLAYERS.includes(data.username)) {
+                    await updateScores('moon_scores.json', data, CLASSIC_LOGOS, data.team_name);
                 }
             };
             updateIfParticipant().catch(error => console.error('Error in updateIfParticipant:', error));
 
         } else {
-            console.log(`User ${data.username} is not a participant in Tomodachi World Cup`)
+            console.log(`User ${data.username} is not a participant in the Tomodachi World Cup`)
         }
     }
 )

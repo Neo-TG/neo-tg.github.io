@@ -51,7 +51,7 @@
             margin-top: 10px;
         }
 
-        #spuds {
+        #spuds, #spuds2 {
             font-family: calibri, tahoma, sans-serif;
             border-collapse: separate;
             width: 80%;
@@ -62,28 +62,28 @@
             border: 2px solid #ae5712;
         }
 
-        #spuds td, #spuds th {
+        #spuds td, #spuds th, #spuds2 td, #spuds2 th {
             border-right: 2px solid #ae5712;
             border-bottom: 2px solid #ae5712;
             padding: 4px;
             text-align: center !important;
         }
-        #spuds td{
+        #spuds td, #spuds2 td{
             border-bottom:0;
         }
-#spuds th:last-of-type, #spuds td:last-of-type{
+#spuds th:last-of-type, #spuds td:last-of-type, #spuds2 th:last-of-type, #spuds2 td:last-of-type{
     border-right:0;
 }
 
-        #spuds tr:nth-child(even) {
+        #spuds tr:nth-child(even), #spuds2 tr:nth-child(even) {
             background-color: #f2f2f2;
         }
 
-        #spuds tr:nth-child(odd) {
+        #spuds tr:nth-child(odd), #spuds2 tr:nth-child(odd) {
             background-color: #d9d9d9;
         }
 
-        #spuds th {
+        #spuds th, #spuds2 th {
             padding-top: 12px;
             padding-bottom: 12px;
             background-color:#f38832;
@@ -93,6 +93,23 @@
            position: sticky;
             top: 0;
         }
+
+#spuds th::after,#spuds2 th::after {
+  content: " ◭";
+}
+
+#spuds th.up::after,#spuds2 th.up::after {
+  content: " ▲";
+}
+
+#spuds th.down::after,#spuds2 th.down::after {
+  content: " ▼";
+}
+
+
+#spuds td:nth-child(1), #spuds2 td:nth-child(1){
+    font-size: 0;
+}
             h1{
         font-family:"Chicle", "Fuzzy Bubbles", "Chewy", sans-serif;
         font-size: 40pt;
@@ -124,36 +141,50 @@ h1 img{
         @media only screen and (max-width: 730px) {
             #spuds td:nth-child(3),
             #spuds th:nth-child(3),
+            #spuds2 td:nth-child(3),
+            #spuds2 th:nth-child(3),
             #spuds td:nth-child(4),
             #spuds th:nth-child(4),
+            #spuds2 td:nth-child(4),
+            #spuds2 th:nth-child(4),
             #spuds td:nth-child(5),
             #spuds th:nth-child(5),
+            #spuds2 td:nth-child(5),
+            #spuds2 th:nth-child(5),
             #spuds td:nth-child(6),
             #spuds th:nth-child(6),
+            #spuds2 td:nth-child(6),
+            #spuds2 th:nth-child(6),
             #spuds td:nth-child(9),
-            #spuds th:nth-child(9) {
+            #spuds th:nth-child(9),
+            #spuds2 td:nth-child(9),
+            #spuds2 th:nth-child(9) {
                 display: none;
             }
             h1{font-size:24px;
             }
-#spuds th{
+
+#spuds th, #spuds2 th{
 font-size: 10px;
 }
 
         } 
 
 .credit{
-width: 100%;
+font-family: calibri, tahoma, sans-serif; 
+width: 60%;
+margin: 0 auto;
+padding: 6px;
 text-align:center;
 box-sizing: border-box;
-display:block;
-color: #fff;
+color: #111;
+background: #f4f4f4;
+border-radius: 35px;
+border-right: 3px solid #d1d1d1;
+border-bottom: 3px solid #d1d1d1;
 font-weight:bold;
-text-shadow: 3px 0 #111, -3px 0 #111, 0 3px #111, 0 -3px #111, 3px 1px #111, -3px -1px #111, 1px 3px #111, -1px -3px #111, 3px -1px #111, -3px 1px #111, -1px 3px #111, 1px -3px #111, 3px 2px #111, -3px -2px #111, 2px 3px #111, -2px -3px #111, 3px -2px #111, -3px 2px #111, -2px 3px #111, 2px -3px #111, 3px 3px #111, -3px -3px #111, 3px -3px #111, -3px 3px #111;
-}
-.credit a{
-color: blue;
- -webkit-text-stroke: 0;
+margin-top: 40px;
+margin-bottom: 40px;
 }
 
     </style>
@@ -167,16 +198,22 @@ color: blue;
 </div>
 
 <div id="content">
+
+<div class="credit">
+This scoreboard will keep track of both teams total plays and overall score. The numbers under each game are how many times you've submitted a score and Points Earned keeps up with your rank score. Scores must be fetched by Admins so update times may vary, but we'll do our best to not let them fall far behind. Please ping one of us if you notice yours isn't updating.
+<p>
+Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
+</div>
   
     <table id="spuds">
         <thead>
         <tr>
             <th>AC Team</th>
             <th>Username</th>
-            <th>Yooyuball Plays</th>
-            <th>Slushie Slinger Plays</th>
-            <th>Make Some Noise Plays</th>
-            <th>Shootout Showdown Plays</th>
+            <th>Yooyuball</th>
+            <th>Slushie Slinger</th>
+            <th>Make Some Noise</th>
+            <th>Shootout Showdown</th>
             <th>Points Earned</th>
             <th>Rank</th>
             <th>Updated (NST)</th>
@@ -187,14 +224,35 @@ color: blue;
         </tbody>
     </table>
     <br><br><br><br>
+
+<table id="spuds2">
+        <thead>
+        <tr>
+            <th>AC Team</th>
+            <th>Username</th>
+            <th>Yooyuball</th>
+            <th>Slushie Slinger</th>
+            <th>Make Some Noise</th>
+            <th>Shootout Showdown</th>
+            <th>Points Earned</th>
+            <th>Rank</th>
+            <th>Updated (NST)</th>
+        </tr>
+        </thead>
+        <tbody>
+        <!-- Data will be populated here -->
+        </tbody>
+    </table>
+    <br><br><br><br>
+
 </div>
 
-<div class="credit">
-Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
-Images © 1999–2026 World of Neopets, Inc.
-</div>
+
 
 <script>
+
+//team star fetcher
+
     document.addEventListener('DOMContentLoaded', function () {
 
         // Initial setting of the margin-top for #content
@@ -216,7 +274,7 @@ Images © 1999–2026 World of Neopets, Inc.
         window.addEventListener('resize', adjustContentTop);
 
 
-        fetch('tomodachi_scores.json')
+        fetch('star_scores.json')
             .then(response => response.json())
             .then(scores => {
                 scores.sort((a, b) => b.total_score - a.total_score);
@@ -233,6 +291,7 @@ Images © 1999–2026 World of Neopets, Inc.
                     img.alt = score.team_name;
                     cellTeamLogo.style.setProperty("text-align", "center", "important");
                     cellTeamLogo.appendChild(img);
+cellTeamLogo.textContent = score.team_name;
 
                     const cellUsername = row.insertCell();
                     const link = document.createElement('a');
@@ -267,6 +326,122 @@ Images © 1999–2026 World of Neopets, Inc.
                 console.error('Error fetching the JSON data:', error);
             });
     });
+
+// end star
+</script>
+
+<script>
+// team moon
+
+ document.addEventListener('DOMContentLoaded', function () {
+
+        // Initial setting of the margin-top for #content
+        let headerImg = document.querySelector('#header img');
+        let contentBox = document.querySelector('#content');
+
+        function adjustContentTop() {
+            let headerHeight = headerImg.getBoundingClientRect().height;
+            contentBox.style.top = headerHeight + 'px';
+            contentBox.style.maxHeight = `calc(100vh - ${headerHeight}px)`;
+        }
+
+        // Add onload event listener to the header image
+        headerImg.onload = function () {
+            adjustContentTop();
+        };
+
+        // Adjust the margin dynamically based on header image size
+        window.addEventListener('resize', adjustContentTop);
+
+
+        fetch('moon_scores.json')
+            .then(response => response.json())
+            .then(scores => {
+                scores.sort((a, b) => b.total_score - a.total_score);
+
+                const scoresTableBody = document.getElementById('spuds2').getElementsByTagName('tbody')[0];
+
+                scores.forEach(score => {
+                    const row = scoresTableBody.insertRow();
+
+                    const cellTeamLogo = row.insertCell();
+                    const img = document.createElement('img');
+                    img.src = score.team_logo;
+                    img.height = 40;
+                    img.alt = score.team_name;
+                    cellTeamLogo.style.setProperty("text-align", "center", "important");
+                    cellTeamLogo.appendChild(img);
+cellTeamLogo.textContent = score.team_name;
+
+                    const cellUsername = row.insertCell();
+                    const link = document.createElement('a');
+                    link.href = 'https://www.neopets.com/altador/colosseum/userstats.phtml?username=' + score.username;
+                    link.textContent = score.username;
+                    link.target = '_blank';
+                    cellUsername.appendChild(link);
+
+                    const cellYybWins = row.insertCell();
+                    cellYybWins.textContent = score.yyb_wins;
+
+                    const cellSlslGames = row.insertCell();
+                    cellSlslGames.textContent = score.slsl_wins;
+
+                    const cellMsnPlays = row.insertCell();
+                    cellMsnPlays.textContent = score.msn_plays;
+
+                    const cellSosdPlays = row.insertCell();
+                    cellSosdPlays.textContent = score.sosd_plays;
+
+                    const cellTotalScore = row.insertCell();
+                    cellTotalScore.textContent = score.total_score;
+
+                    const cellRank = row.insertCell();
+                    cellRank.textContent = score.rank;
+
+                    const cellLastUpdated = row.insertCell();
+                    cellLastUpdated.textContent = score.last_updated;
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching the JSON data:', error);
+            });
+    });
+
+//end moon
+
+//rough sorting addition
+
+document.querySelectorAll('#content th').forEach((header, columnIndex) => {
+  header.addEventListener('click', () => {
+    const table = header.closest('table');
+    const tbody = table.querySelector('tbody');
+    const rows = Array.from(tbody.querySelectorAll('tr'));
+    const type = header.getAttribute('data-type');
+    
+    const isAscending = !header.classList.contains('up');
+    
+    table.querySelectorAll('th').forEach(th => {
+      th.classList.remove('up', 'down');
+    });
+    
+    header.classList.add(isAscending ? 'up' : 'down');
+
+    rows.sort((rowA, rowB) => {
+      const cellA = rowA.children[columnIndex].textContent.trim();
+      const cellB = rowB.children[columnIndex].textContent.trim();
+
+      if (type === 'number') {
+        return isAscending ? parseFloat(cellA) - parseFloat(cellB) : parseFloat(cellB) - parseFloat(cellA);
+      }
+      
+      return isAscending ? cellA.localeCompare(cellB) : cellB.localeCompare(cellA);
+    });
+
+    rows.forEach(row => tbody.appendChild(row));
+  });
+});
+
+
 
 </script>
 </body>

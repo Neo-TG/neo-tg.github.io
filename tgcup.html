@@ -266,24 +266,6 @@ Images © 1999–2026 World of Neopets, Inc.
             .catch(error => {
                 console.error('Error fetching the JSON data:', error);
             });
-
-
-        function adjustHeaderOnScroll() {
-            // Calculate the scroll percentage
-            let scrollTop = contentBox.scrollTop;
-            let maxScrollTop = contentBox.scrollHeight - contentBox.clientHeight;
-            let scrollPercentage = scrollTop / maxScrollTop;
-
-            // Adjust the header image width based on scroll percentage
-            let newWidth = Math.max(30, 60 - scrollPercentage * 30); // Example range from 60% to 30%
-            headerImg.style.width = newWidth + '%';
-        }
-
-        // Add scroll event listener to contentBox
-        contentBox.addEventListener('scroll', function () {
-            adjustHeaderOnScroll();
-            adjustContentTop();
-        });
     });
 
 </script>

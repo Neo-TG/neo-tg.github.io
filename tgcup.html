@@ -414,7 +414,7 @@ cellTeamLogo.textContent = score.team_name;
 
 //rough sorting addition
 
-document.querySelectorAll('#content th').forEach((header, columnIndex) => {
+document.querySelectorAll('#spuds th, #spuds2 th').forEach((header, columnIndex) => {
   header.addEventListener('click', () => {
     const table = header.closest('table');
     const tbody = table.querySelector('tbody');

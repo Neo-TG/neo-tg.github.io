@@ -179,6 +179,7 @@ border-bottom: 5px solid #d1d1d1;
 margin-top: 40px;
 margin-bottom: 40px;
     max-width: 1152px;
+    font-size: 1rem;
 }
 .credit p{
     text-align: center;
@@ -252,24 +253,6 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
 
     document.addEventListener('DOMContentLoaded', function () {
 
-        // Initial setting of the margin-top for #content
-        let headerImg = document.querySelector('#header img');
-        let contentBox = document.querySelector('#content');
-
-        function adjustContentTop() {
-            let headerHeight = headerImg.getBoundingClientRect().height;
-            contentBox.style.top = headerHeight + 'px';
-            contentBox.style.maxHeight = `calc(100vh - ${headerHeight}px)`;
-        }
-
-        // Add onload event listener to the header image
-        headerImg.onload = function () {
-            adjustContentTop();
-        };
-
-        // Adjust the margin dynamically based on header image size
-        window.addEventListener('resize', adjustContentTop);
-
 
         fetch('star_scores.json')
             .then(response => response.json())
@@ -332,23 +315,6 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
 
  document.addEventListener('DOMContentLoaded', function () {
 
-        // Initial setting of the margin-top for #content
-        let headerImg = document.querySelector('#header img');
-        let contentBox = document.querySelector('#content');
-
-        function adjustContentTop() {
-            let headerHeight = headerImg.getBoundingClientRect().height;
-            contentBox.style.top = headerHeight + 'px';
-            contentBox.style.maxHeight = `calc(100vh - ${headerHeight}px)`;
-        }
-
-        // Add onload event listener to the header image
-        headerImg.onload = function () {
-            adjustContentTop();
-        };
-
-        // Adjust the margin dynamically based on header image size
-        window.addEventListener('resize', adjustContentTop);
 
 
         fetch('moon_scores.json')

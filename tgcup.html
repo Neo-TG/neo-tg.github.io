@@ -111,21 +111,12 @@
     font-size: 0;
 }
             h1{
-        font-family:"Chicle", "Fuzzy Bubbles", "Chewy", sans-serif;
-        font-size: 40pt;
-        color:#515fd4;
         text-align: center;
-        -webkit-text-stroke: 1px #ed88fe;
         margin: 0 auto;
-        background: #f38832;
-        width: 45%;
-        border-radius: 55px 55px 0 0;
-        border: 2px solid #ae5712;
-       border-bottom:0;
-            
+        width: 65%;
         }
 h1 img{
-    width: 50%;
+    width: 55%;
     max-height: 200px;
 }
         
@@ -136,6 +127,9 @@ h1 img{
         z-index:-1;
       top:0;
       left:0;
+        }
+        .footer{
+            height: 50px;
         }
 
         @media only screen and (max-width: 730px) {
@@ -249,7 +243,7 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
     <br><br><br><br>
 
 </div>
-
+<div class="footer"></div>
 
 
 <script>
@@ -294,7 +288,7 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
                     img.alt = score.team_name;
                     cellTeamLogo.style.setProperty("text-align", "center", "important");
                     cellTeamLogo.appendChild(img);
-cellTeamLogo.textContent = score.team_name;
+                    cellTeamLogo.appendChild(document.createTextNode(score.team_name));
 
                     const cellUsername = row.insertCell();
                     const link = document.createElement('a');

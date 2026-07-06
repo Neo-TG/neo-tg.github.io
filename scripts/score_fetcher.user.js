@@ -20,7 +20,8 @@
 // PLEASE POPULATE PLAYERS BY TEAM BELOW SEPARATED BY A COMMA AFTER THE QUOTATION MARK
 
         const STAR_PLAYERS = [
-			"heart_stealer292"
+			"heart_stealer292",
+			"acherub"
                     ]
 
         const MOON_PLAYERS = [

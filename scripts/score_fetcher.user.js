@@ -21,11 +21,12 @@
 
         const STAR_PLAYERS = [
 			"heart_stealer292",
-			"acherub"
+			"acherub",
+			"kailey_kitty1995"
                     ]
 
         const MOON_PLAYERS = [
-            "kailey_kitty1995"
+        
         ]
 
         const ALTATER_TEAMS = {

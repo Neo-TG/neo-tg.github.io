@@ -20,9 +20,39 @@
 // PLEASE POPULATE PLAYERS BY TEAM BELOW SEPARATED BY A COMMA AFTER THE QUOTATION MARK
 
         const STAR_PLAYERS = [
+			"schwarzes_schaaf",
+			"heroically",
+			"uogy",
+			"nostalgia",
+			"bubble_gum_girl182",
+			"athyx3",
+			"riseofzedekiel",
+			"tatyanne",
+			"water_park1993",
+			"cubscout30",
+			"5552343",
+			"amondina",
+			"speed_e5",
+			"m_hero18",
+			"id_24",
+			"catchinglights",
+			"rotfljenn",
+			"l_like_animals",
+			"kailey_kitty1995",
+			"16th_serendipity",
+			"d_a_r_e",
 			"heart_stealer292",
+			"laura_ow08",
+			"maivry",
+			"rachael1410",
+			"sweetrayofsunshine94",
+			"roxi2rox",
+			"cyberpuppy33",
+			"not_sporty",
 			"acherub",
-			"kailey_kitty1995"
+			"sandralala",
+			"sosunub",
+			"lynnrules118108"
                     ]
 
         const MOON_PLAYERS = [

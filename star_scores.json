@@ -1,22 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "nostalgia",
-    "yyb_wins": 36,
-    "yyb_draws": 0,
-    "yyb_high_score": 374,
-    "slsl_wins": 13,
-    "slsl_high_score": 593,
-    "msn_plays": 3,
-    "msn_high_score": 4585,
-    "sosd_plays": 242,
-    "sosd_high_score": 1203,
-    "total_score": 1369,
-    "rank": "Level 10",
-    "last_updated": "7/6/2026, 9:52:16 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
     "team_name": "tyrannia",
     "username": "tatyanne",
@@ -559,5 +542,22 @@
     "total_score": 1460,
     "rank": "Level 9",
     "last_updated": "7/7/2026, 12:49:59 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "nostalgia",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 374,
+    "slsl_wins": 13,
+    "slsl_high_score": 593,
+    "msn_plays": 3,
+    "msn_high_score": 4585,
+    "sosd_plays": 242,
+    "sosd_high_score": 1203,
+    "total_score": 1369,
+    "rank": "Level 10",
+    "last_updated": "7/7/2026, 12:50:01 AM"
   }
 ]

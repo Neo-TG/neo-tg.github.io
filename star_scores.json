@@ -17,23 +17,6 @@
     "last_updated": "7/6/2026, 11:35:54 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
-    "team_name": "lost desert",
-    "username": "uogy",
-    "yyb_wins": 36,
-    "yyb_draws": 0,
-    "yyb_high_score": 279,
-    "slsl_wins": 2,
-    "slsl_high_score": 422,
-    "msn_plays": 50,
-    "msn_high_score": 5427,
-    "sosd_plays": 5,
-    "sosd_high_score": 706,
-    "total_score": 689,
-    "rank": "Level 5",
-    "last_updated": "7/7/2026, 12:50:23 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
     "team_name": "darigan citadel",
     "username": "riseofzedekiel",
@@ -559,5 +542,22 @@
     "total_score": 704,
     "rank": "Level 5",
     "last_updated": "7/7/2026, 7:40:52 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
+    "team_name": "lost desert",
+    "username": "uogy",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 279,
+    "slsl_wins": 2,
+    "slsl_high_score": 422,
+    "msn_plays": 50,
+    "msn_high_score": 5427,
+    "sosd_plays": 5,
+    "sosd_high_score": 706,
+    "total_score": 689,
+    "rank": "Level 5",
+    "last_updated": "7/7/2026, 7:40:57 AM"
   }
 ]

@@ -102,23 +102,6 @@
     "last_updated": "7/6/2026, 4:09:52 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
-    "team_name": "tyrannia",
-    "username": "tatyanne",
-    "yyb_wins": 1,
-    "yyb_draws": 1,
-    "yyb_high_score": 5,
-    "slsl_wins": 2,
-    "slsl_high_score": 469,
-    "msn_plays": 1,
-    "msn_high_score": 3490,
-    "sosd_plays": 242,
-    "sosd_high_score": 1178,
-    "total_score": 763,
-    "rank": "Level 5",
-    "last_updated": "7/6/2026, 4:09:59 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "water_park1993",
@@ -559,5 +542,22 @@
     "total_score": 1369,
     "rank": "Level 10",
     "last_updated": "7/6/2026, 9:52:16 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
+    "team_name": "tyrannia",
+    "username": "tatyanne",
+    "yyb_wins": 1,
+    "yyb_draws": 1,
+    "yyb_high_score": 5,
+    "slsl_wins": 11,
+    "slsl_high_score": 534,
+    "msn_plays": 1,
+    "msn_high_score": 3490,
+    "sosd_plays": 242,
+    "sosd_high_score": 1178,
+    "total_score": 853,
+    "rank": "Level 6",
+    "last_updated": "7/6/2026, 9:52:20 PM"
   }
 ]

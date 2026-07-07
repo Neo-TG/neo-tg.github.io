@@ -68,23 +68,6 @@
     "last_updated": "7/6/2026, 4:09:52 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "cubscout30",
-    "yyb_wins": 30,
-    "yyb_draws": 0,
-    "yyb_high_score": 214,
-    "slsl_wins": 0,
-    "slsl_high_score": 0,
-    "msn_plays": 0,
-    "msn_high_score": 0,
-    "sosd_plays": 0,
-    "sosd_high_score": 0,
-    "total_score": 420,
-    "rank": "Level 3",
-    "last_updated": "7/6/2026, 4:10:12 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png",
     "team_name": "meridell",
     "username": "speed_e5",
@@ -559,5 +542,22 @@
     "total_score": 626,
     "rank": "Level 4",
     "last_updated": "7/6/2026, 10:42:30 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "cubscout30",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 257,
+    "slsl_wins": 20,
+    "slsl_high_score": 670,
+    "msn_plays": 0,
+    "msn_high_score": 0,
+    "sosd_plays": 0,
+    "sosd_high_score": 0,
+    "total_score": 704,
+    "rank": "Level 5",
+    "last_updated": "7/6/2026, 10:53:10 PM"
   }
 ]

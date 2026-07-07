@@ -17,23 +17,6 @@
     "last_updated": "7/6/2026, 9:52:20 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
-    "team_name": "darigan citadel",
-    "username": "kailey_kitty1995",
-    "yyb_wins": 11,
-    "yyb_draws": 0,
-    "yyb_high_score": 63,
-    "slsl_wins": 3,
-    "slsl_high_score": 424,
-    "msn_plays": 11,
-    "msn_high_score": 5337,
-    "sosd_plays": 242,
-    "sosd_high_score": 1185,
-    "total_score": 943,
-    "rank": "Level 7",
-    "last_updated": "7/6/2026, 9:52:24 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "water_park1993",
@@ -559,5 +542,22 @@
     "total_score": 990,
     "rank": "Level 7",
     "last_updated": "7/7/2026, 12:50:06 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
+    "team_name": "darigan citadel",
+    "username": "kailey_kitty1995",
+    "yyb_wins": 12,
+    "yyb_draws": 0,
+    "yyb_high_score": 70,
+    "slsl_wins": 3,
+    "slsl_high_score": 424,
+    "msn_plays": 12,
+    "msn_high_score": 5337,
+    "sosd_plays": 243,
+    "sosd_high_score": 1185,
+    "total_score": 963,
+    "rank": "Level 7",
+    "last_updated": "7/7/2026, 12:50:09 AM"
   }
 ]

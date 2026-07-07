@@ -19,23 +19,6 @@
   {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
     "team_name": "krawk island",
-    "username": "bubble_gum_girl182",
-    "yyb_wins": 0,
-    "yyb_draws": 0,
-    "yyb_high_score": 0,
-    "slsl_wins": 0,
-    "slsl_high_score": 0,
-    "msn_plays": 50,
-    "msn_high_score": 3824,
-    "sosd_plays": 365,
-    "sosd_high_score": 1184,
-    "total_score": 1245,
-    "rank": "Level 11",
-    "last_updated": "7/7/2026, 7:40:44 AM"
-  },
-  {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
-    "team_name": "krawk island",
     "username": "d_a_r_e",
     "yyb_wins": 0,
     "yyb_draws": 0,
@@ -567,5 +550,23 @@
     "occ_high_score": 1097,
     "total_score": 1311,
     "last_updated": "7/7/2026, 3:01:26 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
+    "team_name": "krawk island",
+    "username": "bubble_gum_girl182",
+    "yyb_wins": 0,
+    "yyb_draws": 0,
+    "yyb_high_score": 0,
+    "slsl_wins": 0,
+    "slsl_high_score": 0,
+    "msn_plays": 50,
+    "msn_high_score": 3824,
+    "sosd_plays": 484,
+    "sosd_high_score": 1184,
+    "occ_plays": 150,
+    "occ_high_score": 3849,
+    "total_score": 2352,
+    "last_updated": "7/7/2026, 3:01:29 PM"
   }
 ]

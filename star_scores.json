@@ -17,23 +17,6 @@
     "last_updated": "7/6/2026, 11:35:54 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "l_like_animals",
-    "yyb_wins": 36,
-    "yyb_draws": 0,
-    "yyb_high_score": 376,
-    "slsl_wins": 5,
-    "slsl_high_score": 652,
-    "msn_plays": 10,
-    "msn_high_score": 4900,
-    "sosd_plays": 242,
-    "sosd_high_score": 1186,
-    "total_score": 1310,
-    "rank": "Level 8",
-    "last_updated": "7/7/2026, 12:50:04 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png",
     "team_name": "terror mountain",
     "username": "not_sporty",
@@ -559,5 +542,22 @@
     "total_score": 1531,
     "rank": "Level 10",
     "last_updated": "7/7/2026, 7:40:27 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "l_like_animals",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 376,
+    "slsl_wins": 5,
+    "slsl_high_score": 652,
+    "msn_plays": 10,
+    "msn_high_score": 4900,
+    "sosd_plays": 242,
+    "sosd_high_score": 1186,
+    "total_score": 1310,
+    "rank": "Level 8",
+    "last_updated": "7/7/2026, 7:40:30 AM"
   }
 ]

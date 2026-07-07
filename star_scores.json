@@ -1,22 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
-    "team_name": "kreludor",
-    "username": "5552343",
-    "yyb_wins": 1,
-    "yyb_draws": 0,
-    "yyb_high_score": 5,
-    "slsl_wins": 2,
-    "slsl_high_score": 159,
-    "msn_plays": 1,
-    "msn_high_score": 2846,
-    "sosd_plays": 10,
-    "sosd_high_score": 1162,
-    "total_score": 67,
-    "rank": "Level 3",
-    "last_updated": "7/7/2026, 1:04:08 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
     "username": "rachael1410",
@@ -559,5 +542,22 @@
     "total_score": 109,
     "rank": "Beginner",
     "last_updated": "7/7/2026, 8:28:32 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
+    "team_name": "kreludor",
+    "username": "5552343",
+    "yyb_wins": 1,
+    "yyb_draws": 0,
+    "yyb_high_score": 5,
+    "slsl_wins": 2,
+    "slsl_high_score": 159,
+    "msn_plays": 1,
+    "msn_high_score": 2846,
+    "sosd_plays": 10,
+    "sosd_high_score": 1162,
+    "total_score": 67,
+    "rank": "Level 3",
+    "last_updated": "7/7/2026, 8:28:36 AM"
   }
 ]

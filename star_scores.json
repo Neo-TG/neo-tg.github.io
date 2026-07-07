@@ -17,23 +17,6 @@
     "last_updated": "7/6/2026, 11:35:54 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "heart_stealer292",
-    "yyb_wins": 36,
-    "yyb_draws": 0,
-    "yyb_high_score": 252,
-    "slsl_wins": 15,
-    "slsl_high_score": 673,
-    "msn_plays": 100,
-    "msn_high_score": 5252,
-    "sosd_plays": 310,
-    "sosd_high_score": 1180,
-    "total_score": 1884,
-    "rank": "Level 12",
-    "last_updated": "7/7/2026, 12:49:54 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
     "team_name": "brightvale",
     "username": "lynnrules118108",
@@ -559,5 +542,22 @@
     "total_score": 0,
     "rank": "Beginner",
     "last_updated": "7/7/2026, 1:04:28 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "heart_stealer292",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 252,
+    "slsl_wins": 15,
+    "slsl_high_score": 673,
+    "msn_plays": 100,
+    "msn_high_score": 5252,
+    "sosd_plays": 374,
+    "sosd_high_score": 1192,
+    "total_score": 2076,
+    "rank": "Level 12",
+    "last_updated": "7/7/2026, 1:49:22 AM"
   }
 ]

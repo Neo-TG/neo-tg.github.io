@@ -205,8 +205,8 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
             <th class="sorttable_numeric">Slushie Slinger</th>
             <th class="sorttable_numeric">Make Some Noise</th>
             <th class="sorttable_numeric">Shootout Showdown</th>
+            <th class="sorttable_numeric">Obstacle Course</th>
             <th class="sorttable_numeric">Points Earned</th>
-            <th class="sorttable_numeric">Rank</th>
             <th>Updated (NST)</th>
         </tr>
         </thead>
@@ -267,11 +267,11 @@ Score Fetching Script from <a href="https://neokat.github.io/">Neokat.</a><br>
                     const cellSosdPlays = row.insertCell();
                     cellSosdPlays.textContent = score.sosd_plays;
 
+                    const cellOccPlays = row.insertCell();
+                    cellOccPlays.textContent = score.occ_plays;
+
                     const cellTotalScore = row.insertCell();
                     cellTotalScore.textContent = score.total_score;
-
-                    const cellRank = row.insertCell();
-                    cellRank.textContent = score.rank;
 
                     const cellLastUpdated = row.insertCell();
                     cellLastUpdated.textContent = score.last_updated;

@@ -425,23 +425,6 @@
     "last_updated": "7/6/2026, 10:54:21 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "rachael1410",
-    "yyb_wins": 0,
-    "yyb_draws": 0,
-    "yyb_high_score": 0,
-    "slsl_wins": 0,
-    "slsl_high_score": 0,
-    "msn_plays": 0,
-    "msn_high_score": 0,
-    "sosd_plays": 6,
-    "sosd_high_score": 1143,
-    "total_score": 18,
-    "rank": "Beginner",
-    "last_updated": "7/6/2026, 11:17:41 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/mysteryisland/logo.png",
     "team_name": "mystery island",
     "username": "id_24",
@@ -559,5 +542,22 @@
     "total_score": 1680,
     "rank": "Level 11",
     "last_updated": "7/6/2026, 11:22:25 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "rachael1410",
+    "yyb_wins": 0,
+    "yyb_draws": 0,
+    "yyb_high_score": 0,
+    "slsl_wins": 0,
+    "slsl_high_score": 0,
+    "msn_plays": 0,
+    "msn_high_score": 0,
+    "sosd_plays": 6,
+    "sosd_high_score": 1143,
+    "total_score": 18,
+    "rank": "Beginner",
+    "last_updated": "7/6/2026, 11:26:12 PM"
   }
 ]

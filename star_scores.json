@@ -34,23 +34,6 @@
     "last_updated": "7/6/2026, 4:09:29 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
-    "team_name": "lost desert",
-    "username": "uogy",
-    "yyb_wins": 11,
-    "yyb_draws": 0,
-    "yyb_high_score": 75,
-    "slsl_wins": 2,
-    "slsl_high_score": 422,
-    "msn_plays": 1,
-    "msn_high_score": 4046,
-    "sosd_plays": 1,
-    "sosd_high_score": 421,
-    "total_score": 180,
-    "rank": "Level 1",
-    "last_updated": "7/6/2026, 4:09:33 PM"
-  },
-  {
     "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
     "team_name": "neopia central",
     "username": "athyx3",
@@ -559,5 +542,22 @@
     "total_score": 1623,
     "rank": "Level 11",
     "last_updated": "7/6/2026, 10:42:01 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
+    "team_name": "lost desert",
+    "username": "uogy",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 279,
+    "slsl_wins": 2,
+    "slsl_high_score": 422,
+    "msn_plays": 33,
+    "msn_high_score": 5427,
+    "sosd_plays": 1,
+    "sosd_high_score": 421,
+    "total_score": 626,
+    "rank": "Level 4",
+    "last_updated": "7/6/2026, 10:42:30 PM"
   }
 ]

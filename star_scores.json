@@ -476,23 +476,6 @@
     "last_updated": "7/6/2026, 10:09:12 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "heart_stealer292",
-    "yyb_wins": 36,
-    "yyb_draws": 0,
-    "yyb_high_score": 252,
-    "slsl_wins": 15,
-    "slsl_high_score": 673,
-    "msn_plays": 66,
-    "msn_high_score": 5172,
-    "sosd_plays": 242,
-    "sosd_high_score": 1180,
-    "total_score": 1578,
-    "rank": "Level 10",
-    "last_updated": "7/6/2026, 10:09:22 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
     "team_name": "kreludor",
     "username": "5552343",
@@ -559,5 +542,22 @@
     "total_score": 399,
     "rank": "Level 3",
     "last_updated": "7/6/2026, 10:10:32 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "heart_stealer292",
+    "yyb_wins": 36,
+    "yyb_draws": 0,
+    "yyb_high_score": 252,
+    "slsl_wins": 15,
+    "slsl_high_score": 673,
+    "msn_plays": 74,
+    "msn_high_score": 5252,
+    "sosd_plays": 242,
+    "sosd_high_score": 1180,
+    "total_score": 1602,
+    "rank": "Level 10",
+    "last_updated": "7/6/2026, 10:36:41 PM"
   }
 ]

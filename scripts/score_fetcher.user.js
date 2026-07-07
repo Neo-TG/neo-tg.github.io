@@ -156,6 +156,11 @@
             data.sosd_games_played = parseInt(sosdSection.querySelector('li:nth-of-type(1) span').textContent.trim().replace(/,/g, ''));
             data.sosd_top_score = parseInt(sosdSection.querySelector('li:nth-of-type(2) span').textContent.trim().replace(/,/g, ''));
 
+			// Get Obstacle Course Caper stats
+            const occSection = document.querySelector('section.gamestats:nth-of-type(5)');
+            data.occ_games_played = parseInt(occSection.querySelector('li:nth-of-type(1) span').textContent.trim().replace(/,/g, ''));
+            data.occ_top_score = parseInt(occSection.querySelector('li:nth-of-type(2) span').textContent.trim().replace(/,/g, ''));
+
             // Get current timestamp
             const timestamp = new Date().toLocaleString('en-US', {timeZone: 'America/Los_Angeles'});
 
@@ -196,7 +201,7 @@
                     const scores = JSON.parse(atob(responseData.content));
                     removeByUsername(scores, data.username);
 
-                    const total_score = (data.yyb_wins * 14) + (data.slsl_games_played * 10) + (data.msn_games_played * 3) + (data.sosd_games_played * 3);
+                    const total_score = (data.yyb_wins * 14) + (data.slsl_games_played * 10) + (data.msn_games_played * 3) + (data.sosd_games_played * 3) + (data.occ_games_played * 5);
 
                     scores.push({
                         "team_logo": logos[teamName],
@@ -211,8 +216,9 @@
                         "msn_high_score": data.msn_top_score,
                         "sosd_plays": data.sosd_games_played,
                         "sosd_high_score": data.sosd_top_score,
+						"occ_plays": data.occ_games_played,
+						"occ_high_score": data.occ_top_score,
                         "total_score": total_score,
-                        "rank": data.rank,
                         "last_updated": timestamp
                     });
 

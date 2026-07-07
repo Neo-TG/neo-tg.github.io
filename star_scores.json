@@ -1,22 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
-    "team_name": "haunted woods",
-    "username": "amondina",
-    "yyb_wins": 6,
-    "yyb_draws": 0,
-    "yyb_high_score": 31,
-    "slsl_wins": 1,
-    "slsl_high_score": 290,
-    "msn_plays": 1,
-    "msn_high_score": 3634,
-    "sosd_plays": 9,
-    "sosd_high_score": 1019,
-    "total_score": 124,
-    "rank": "Level 1",
-    "last_updated": "7/7/2026, 8:28:27 AM"
-  },
-  {
     "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
     "team_name": "neopia central",
     "username": "sosunub",
@@ -582,5 +565,23 @@
     "occ_high_score": 1134,
     "total_score": 206,
     "last_updated": "7/7/2026, 3:09:39 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
+    "team_name": "haunted woods",
+    "username": "amondina",
+    "yyb_wins": 6,
+    "yyb_draws": 0,
+    "yyb_high_score": 31,
+    "slsl_wins": 2,
+    "slsl_high_score": 513,
+    "msn_plays": 9,
+    "msn_high_score": 5015,
+    "sosd_plays": 90,
+    "sosd_high_score": 1019,
+    "occ_plays": 5,
+    "occ_high_score": 2257,
+    "total_score": 426,
+    "last_updated": "7/7/2026, 3:09:41 PM"
   }
 ]

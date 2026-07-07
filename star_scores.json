@@ -1,22 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png",
-    "team_name": "terror mountain",
-    "username": "not_sporty",
-    "yyb_wins": 40,
-    "yyb_draws": 1,
-    "yyb_high_score": 242,
-    "slsl_wins": 4,
-    "slsl_high_score": 534,
-    "msn_plays": 2,
-    "msn_high_score": 4267,
-    "sosd_plays": 169,
-    "sosd_high_score": 1183,
-    "total_score": 1113,
-    "rank": "Level 7",
-    "last_updated": "7/7/2026, 7:40:37 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
     "team_name": "krawk island",
     "username": "d_a_r_e",
@@ -568,5 +551,23 @@
     "occ_high_score": 3849,
     "total_score": 2352,
     "last_updated": "7/7/2026, 3:01:29 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png",
+    "team_name": "terror mountain",
+    "username": "not_sporty",
+    "yyb_wins": 40,
+    "yyb_draws": 1,
+    "yyb_high_score": 242,
+    "slsl_wins": 4,
+    "slsl_high_score": 534,
+    "msn_plays": 2,
+    "msn_high_score": 4267,
+    "sosd_plays": 169,
+    "sosd_high_score": 1183,
+    "occ_plays": 18,
+    "occ_high_score": 2377,
+    "total_score": 1203,
+    "last_updated": "7/7/2026, 3:01:32 PM"
   }
 ]

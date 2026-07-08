@@ -90,24 +90,6 @@
     "last_updated": "7/7/2026, 5:47:13 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
-    "team_name": "darigan citadel",
-    "username": "kailey_kitty1995",
-    "yyb_wins": 15,
-    "yyb_draws": 0,
-    "yyb_high_score": 82,
-    "slsl_wins": 5,
-    "slsl_high_score": 545,
-    "msn_plays": 15,
-    "msn_high_score": 5337,
-    "sosd_plays": 475,
-    "sosd_high_score": 1185,
-    "occ_plays": 32,
-    "occ_high_score": 4997,
-    "total_score": 1890,
-    "last_updated": "7/7/2026, 5:47:16 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
     "username": "l_like_animals",
@@ -592,5 +574,23 @@
     "occ_high_score": 5907,
     "total_score": 3595,
     "last_updated": "7/7/2026, 7:48:11 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
+    "team_name": "darigan citadel",
+    "username": "kailey_kitty1995",
+    "yyb_wins": 17,
+    "yyb_draws": 0,
+    "yyb_high_score": 90,
+    "slsl_wins": 5,
+    "slsl_high_score": 545,
+    "msn_plays": 30,
+    "msn_high_score": 5337,
+    "sosd_plays": 484,
+    "sosd_high_score": 1185,
+    "occ_plays": 35,
+    "occ_high_score": 4997,
+    "total_score": 2005,
+    "last_updated": "7/7/2026, 7:49:17 PM"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
-    "team_name": "tyrannia",
-    "username": "tatyanne",
-    "yyb_wins": 16,
-    "yyb_draws": 1,
-    "yyb_high_score": 87,
-    "slsl_wins": 12,
-    "slsl_high_score": 534,
-    "msn_plays": 2,
-    "msn_high_score": 3490,
-    "sosd_plays": 484,
-    "sosd_high_score": 1181,
-    "occ_plays": 8,
-    "occ_high_score": 2276,
-    "total_score": 1842,
-    "last_updated": "7/7/2026, 7:54:46 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
     "team_name": "haunted woods",
     "username": "sandralala",
@@ -592,5 +574,23 @@
     "occ_high_score": 4997,
     "total_score": 2065,
     "last_updated": "7/7/2026, 9:57:25 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
+    "team_name": "tyrannia",
+    "username": "tatyanne",
+    "yyb_wins": 16,
+    "yyb_draws": 1,
+    "yyb_high_score": 87,
+    "slsl_wins": 12,
+    "slsl_high_score": 534,
+    "msn_plays": 2,
+    "msn_high_score": 3490,
+    "sosd_plays": 484,
+    "sosd_high_score": 1181,
+    "occ_plays": 8,
+    "occ_high_score": 2276,
+    "total_score": 1842,
+    "last_updated": "7/7/2026, 9:57:29 PM"
   }
 ]

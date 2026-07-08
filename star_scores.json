@@ -72,24 +72,6 @@
     "last_updated": "7/7/2026, 3:09:41 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
-    "team_name": "kreludor",
-    "username": "5552343",
-    "yyb_wins": 1,
-    "yyb_draws": 0,
-    "yyb_high_score": 5,
-    "slsl_wins": 2,
-    "slsl_high_score": 159,
-    "msn_plays": 1,
-    "msn_high_score": 2846,
-    "sosd_plays": 10,
-    "sosd_high_score": 1162,
-    "occ_plays": 75,
-    "occ_high_score": 4805,
-    "total_score": 442,
-    "last_updated": "7/7/2026, 3:09:58 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/mysteryisland/logo.png",
     "team_name": "mystery island",
     "username": "id_24",
@@ -592,5 +574,23 @@
     "occ_high_score": 1444,
     "total_score": 443,
     "last_updated": "7/7/2026, 5:48:04 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
+    "team_name": "kreludor",
+    "username": "5552343",
+    "yyb_wins": 1,
+    "yyb_draws": 0,
+    "yyb_high_score": 5,
+    "slsl_wins": 2,
+    "slsl_high_score": 159,
+    "msn_plays": 1,
+    "msn_high_score": 2846,
+    "sosd_plays": 10,
+    "sosd_high_score": 1162,
+    "occ_plays": 75,
+    "occ_high_score": 4805,
+    "total_score": 442,
+    "last_updated": "7/7/2026, 5:48:09 PM"
   }
 ]

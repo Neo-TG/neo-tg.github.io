@@ -18,24 +18,6 @@
     "last_updated": "7/7/2026, 9:57:57 PM"
   },
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "sosunub",
-    "yyb_wins": 6,
-    "yyb_draws": 1,
-    "yyb_high_score": 40,
-    "slsl_wins": 1,
-    "slsl_high_score": 603,
-    "msn_plays": 5,
-    "msn_high_score": 5802,
-    "sosd_plays": 20,
-    "sosd_high_score": 1164,
-    "occ_plays": 150,
-    "occ_high_score": 6174,
-    "total_score": 919,
-    "last_updated": "7/7/2026, 9:58:03 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
     "team_name": "kreludor",
     "username": "5552343",
@@ -592,5 +574,23 @@
     "occ_high_score": 0,
     "total_score": 1452,
     "last_updated": "7/8/2026, 1:20:05 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "sosunub",
+    "yyb_wins": 6,
+    "yyb_draws": 1,
+    "yyb_high_score": 40,
+    "slsl_wins": 1,
+    "slsl_high_score": 603,
+    "msn_plays": 5,
+    "msn_high_score": 5802,
+    "sosd_plays": 20,
+    "sosd_high_score": 1164,
+    "occ_plays": 150,
+    "occ_high_score": 6174,
+    "total_score": 919,
+    "last_updated": "7/8/2026, 1:20:08 AM"
   }
 ]

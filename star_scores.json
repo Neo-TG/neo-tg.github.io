@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
-    "team_name": "darigan citadel",
-    "username": "roxi2rox",
-    "yyb_wins": 7,
-    "yyb_draws": 0,
-    "yyb_high_score": 45,
-    "slsl_wins": 1,
-    "slsl_high_score": 241,
-    "msn_plays": 4,
-    "msn_high_score": 4602,
-    "sosd_plays": 101,
-    "sosd_high_score": 1174,
-    "occ_plays": 4,
-    "occ_high_score": 1444,
-    "total_score": 443,
-    "last_updated": "7/7/2026, 5:48:04 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
     "team_name": "haunted woods",
     "username": "cyberpuppy33",
@@ -592,5 +574,23 @@
     "occ_high_score": 0,
     "total_score": 450,
     "last_updated": "7/7/2026, 8:25:32 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
+    "team_name": "darigan citadel",
+    "username": "roxi2rox",
+    "yyb_wins": 7,
+    "yyb_draws": 0,
+    "yyb_high_score": 45,
+    "slsl_wins": 1,
+    "slsl_high_score": 241,
+    "msn_plays": 4,
+    "msn_high_score": 4602,
+    "sosd_plays": 101,
+    "sosd_high_score": 1174,
+    "occ_plays": 4,
+    "occ_high_score": 1444,
+    "total_score": 443,
+    "last_updated": "7/7/2026, 8:26:36 PM"
   }
 ]

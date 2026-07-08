@@ -92,24 +92,6 @@
   {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
-    "username": "l_like_animals",
-    "yyb_wins": 41,
-    "yyb_draws": 0,
-    "yyb_high_score": 431,
-    "slsl_wins": 6,
-    "slsl_high_score": 652,
-    "msn_plays": 11,
-    "msn_high_score": 4900,
-    "sosd_plays": 243,
-    "sosd_high_score": 1186,
-    "occ_plays": 23,
-    "occ_high_score": 5351,
-    "total_score": 1511,
-    "last_updated": "7/7/2026, 8:12:28 PM"
-  },
-  {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
     "username": "acherub",
     "yyb_wins": 10,
     "yyb_draws": 2,
@@ -592,5 +574,23 @@
     "occ_high_score": 1097,
     "total_score": 2037,
     "last_updated": "7/7/2026, 9:57:32 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "l_like_animals",
+    "yyb_wins": 41,
+    "yyb_draws": 0,
+    "yyb_high_score": 431,
+    "slsl_wins": 6,
+    "slsl_high_score": 652,
+    "msn_plays": 11,
+    "msn_high_score": 4900,
+    "sosd_plays": 274,
+    "sosd_high_score": 1186,
+    "occ_plays": 23,
+    "occ_high_score": 5351,
+    "total_score": 1604,
+    "last_updated": "7/7/2026, 9:57:34 PM"
   }
 ]

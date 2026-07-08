@@ -36,24 +36,6 @@
     "last_updated": "7/7/2026, 8:30:16 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/shenkuu/logo.png",
-    "team_name": "shenkuu",
-    "username": "maivry",
-    "yyb_wins": 5,
-    "yyb_draws": 0,
-    "yyb_high_score": 33,
-    "slsl_wins": 3,
-    "slsl_high_score": 530,
-    "msn_plays": 5,
-    "msn_high_score": 3524,
-    "sosd_plays": 5,
-    "sosd_high_score": 929,
-    "occ_plays": 6,
-    "occ_high_score": 1636,
-    "total_score": 160,
-    "last_updated": "7/7/2026, 8:31:38 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
     "username": "rachael1410",
@@ -592,5 +574,23 @@
     "occ_high_score": 4635,
     "total_score": 421,
     "last_updated": "7/7/2026, 9:58:25 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/shenkuu/logo.png",
+    "team_name": "shenkuu",
+    "username": "maivry",
+    "yyb_wins": 5,
+    "yyb_draws": 0,
+    "yyb_high_score": 33,
+    "slsl_wins": 3,
+    "slsl_high_score": 530,
+    "msn_plays": 5,
+    "msn_high_score": 3524,
+    "sosd_plays": 5,
+    "sosd_high_score": 929,
+    "occ_plays": 35,
+    "occ_high_score": 2151,
+    "total_score": 305,
+    "last_updated": "7/7/2026, 9:58:27 PM"
   }
 ]

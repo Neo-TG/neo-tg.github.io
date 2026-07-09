@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "athyx3",
-    "yyb_wins": 8,
-    "yyb_draws": 0,
-    "yyb_high_score": 34,
-    "slsl_wins": 2,
-    "slsl_high_score": 484,
-    "msn_plays": 17,
-    "msn_high_score": 5912,
-    "sosd_plays": 32,
-    "sosd_high_score": 1148,
-    "occ_plays": 6,
-    "occ_high_score": 2119,
-    "total_score": 309,
-    "last_updated": "7/8/2026, 6:50:56 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/mysteryisland/logo.png",
     "team_name": "mystery island",
     "username": "id_24",
@@ -592,5 +574,23 @@
     "occ_high_score": 4635,
     "total_score": 625,
     "last_updated": "7/9/2026, 11:57:34 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "athyx3",
+    "yyb_wins": 9,
+    "yyb_draws": 0,
+    "yyb_high_score": 39,
+    "slsl_wins": 3,
+    "slsl_high_score": 484,
+    "msn_plays": 18,
+    "msn_high_score": 5912,
+    "sosd_plays": 33,
+    "sosd_high_score": 1148,
+    "occ_plays": 8,
+    "occ_high_score": 2119,
+    "total_score": 349,
+    "last_updated": "7/9/2026, 11:57:42 AM"
   }
 ]

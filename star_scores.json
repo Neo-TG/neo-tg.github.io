@@ -18,24 +18,6 @@
     "last_updated": "7/9/2026, 11:57:11 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
-    "team_name": "kreludor",
-    "username": "5552343",
-    "yyb_wins": 1,
-    "yyb_draws": 0,
-    "yyb_high_score": 5,
-    "slsl_wins": 2,
-    "slsl_high_score": 159,
-    "msn_plays": 3,
-    "msn_high_score": 3971,
-    "sosd_plays": 56,
-    "sosd_high_score": 1167,
-    "occ_plays": 153,
-    "occ_high_score": 4933,
-    "total_score": 976,
-    "last_updated": "7/9/2026, 11:57:27 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
     "team_name": "haunted woods",
     "username": "sandralala",
@@ -592,5 +574,23 @@
     "occ_high_score": 4050,
     "total_score": 2054,
     "last_updated": "7/9/2026, 11:42:19 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
+    "team_name": "kreludor",
+    "username": "5552343",
+    "yyb_wins": 1,
+    "yyb_draws": 0,
+    "yyb_high_score": 5,
+    "slsl_wins": 2,
+    "slsl_high_score": 159,
+    "msn_plays": 3,
+    "msn_high_score": 3971,
+    "sosd_plays": 56,
+    "sosd_high_score": 1167,
+    "occ_plays": 178,
+    "occ_high_score": 4933,
+    "total_score": 1101,
+    "last_updated": "7/9/2026, 11:42:22 PM"
   }
 ]

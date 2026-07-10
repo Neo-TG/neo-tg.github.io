@@ -144,24 +144,6 @@
     "last_updated": "7/9/2026, 11:41:28 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
-    "team_name": "moltara",
-    "username": "catchinglights",
-    "yyb_wins": 30,
-    "yyb_draws": 0,
-    "yyb_high_score": 286,
-    "slsl_wins": 3,
-    "slsl_high_score": 675,
-    "msn_plays": 3,
-    "msn_high_score": 3094,
-    "sosd_plays": 260,
-    "sosd_high_score": 1185,
-    "occ_plays": 3,
-    "occ_high_score": 1535,
-    "total_score": 1254,
-    "last_updated": "7/9/2026, 11:42:09 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "schwarzes_schaaf",
@@ -592,5 +574,23 @@
     "occ_high_score": 5117,
     "total_score": 2002,
     "last_updated": "7/10/2026, 12:30:41 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
+    "team_name": "moltara",
+    "username": "catchinglights",
+    "yyb_wins": 30,
+    "yyb_draws": 0,
+    "yyb_high_score": 286,
+    "slsl_wins": 3,
+    "slsl_high_score": 675,
+    "msn_plays": 3,
+    "msn_high_score": 3094,
+    "sosd_plays": 260,
+    "sosd_high_score": 1185,
+    "occ_plays": 3,
+    "occ_high_score": 1535,
+    "total_score": 1254,
+    "last_updated": "7/10/2026, 12:30:43 PM"
   }
 ]

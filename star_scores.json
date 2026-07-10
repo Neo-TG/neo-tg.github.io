@@ -162,24 +162,6 @@
     "last_updated": "7/9/2026, 11:42:00 PM"
   },
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "sosunub",
-    "yyb_wins": 9,
-    "yyb_draws": 1,
-    "yyb_high_score": 55,
-    "slsl_wins": 6,
-    "slsl_high_score": 603,
-    "msn_plays": 40,
-    "msn_high_score": 5802,
-    "sosd_plays": 45,
-    "sosd_high_score": 1198,
-    "occ_plays": 300,
-    "occ_high_score": 6298,
-    "total_score": 1941,
-    "last_updated": "7/9/2026, 11:42:02 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
     "team_name": "darigan citadel",
     "username": "riseofzedekiel",
@@ -592,5 +574,23 @@
     "occ_high_score": 4875,
     "total_score": 2104,
     "last_updated": "7/10/2026, 12:30:32 PM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "sosunub",
+    "yyb_wins": 10,
+    "yyb_draws": 1,
+    "yyb_high_score": 60,
+    "slsl_wins": 7,
+    "slsl_high_score": 603,
+    "msn_plays": 50,
+    "msn_high_score": 5802,
+    "sosd_plays": 50,
+    "sosd_high_score": 1198,
+    "occ_plays": 375,
+    "occ_high_score": 6498,
+    "total_score": 2385,
+    "last_updated": "7/10/2026, 12:30:35 PM"
   }
 ]

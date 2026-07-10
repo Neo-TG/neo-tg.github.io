@@ -162,24 +162,6 @@
     "last_updated": "7/9/2026, 11:42:16 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
-    "team_name": "kreludor",
-    "username": "5552343",
-    "yyb_wins": 1,
-    "yyb_draws": 0,
-    "yyb_high_score": 5,
-    "slsl_wins": 2,
-    "slsl_high_score": 159,
-    "msn_plays": 3,
-    "msn_high_score": 3971,
-    "sosd_plays": 56,
-    "sosd_high_score": 1167,
-    "occ_plays": 178,
-    "occ_high_score": 4933,
-    "total_score": 1101,
-    "last_updated": "7/9/2026, 11:42:22 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
     "username": "laura_ow08",
@@ -592,5 +574,23 @@
     "occ_high_score": 2488,
     "total_score": 1184,
     "last_updated": "7/10/2026, 12:30:46 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
+    "team_name": "kreludor",
+    "username": "5552343",
+    "yyb_wins": 1,
+    "yyb_draws": 0,
+    "yyb_high_score": 5,
+    "slsl_wins": 2,
+    "slsl_high_score": 159,
+    "msn_plays": 3,
+    "msn_high_score": 3971,
+    "sosd_plays": 56,
+    "sosd_high_score": 1167,
+    "occ_plays": 186,
+    "occ_high_score": 4933,
+    "total_score": 1141,
+    "last_updated": "7/10/2026, 12:30:50 PM"
   }
 ]

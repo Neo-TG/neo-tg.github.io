@@ -36,24 +36,6 @@
     "last_updated": "7/9/2026, 11:56:55 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "m_hero18",
-    "yyb_wins": 12,
-    "yyb_draws": 0,
-    "yyb_high_score": 61,
-    "slsl_wins": 6,
-    "slsl_high_score": 589,
-    "msn_plays": 10,
-    "msn_high_score": 5541,
-    "sosd_plays": 263,
-    "sosd_high_score": 1197,
-    "occ_plays": 177,
-    "occ_high_score": 5629,
-    "total_score": 1932,
-    "last_updated": "7/9/2026, 11:56:57 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
     "team_name": "darigan citadel",
     "username": "riseofzedekiel",
@@ -592,5 +574,23 @@
     "occ_high_score": 1944,
     "total_score": 3267,
     "last_updated": "7/9/2026, 11:41:55 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "m_hero18",
+    "yyb_wins": 12,
+    "yyb_draws": 0,
+    "yyb_high_score": 61,
+    "slsl_wins": 6,
+    "slsl_high_score": 589,
+    "msn_plays": 10,
+    "msn_high_score": 5541,
+    "sosd_plays": 277,
+    "sosd_high_score": 1197,
+    "occ_plays": 197,
+    "occ_high_score": 5629,
+    "total_score": 2074,
+    "last_updated": "7/9/2026, 11:41:58 PM"
   }
 ]

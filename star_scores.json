@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "cubscout30",
-    "yyb_wins": 51,
-    "yyb_draws": 0,
-    "yyb_high_score": 353,
-    "slsl_wins": 73,
-    "slsl_high_score": 671,
-    "msn_plays": 5,
-    "msn_high_score": 3045,
-    "sosd_plays": 55,
-    "sosd_high_score": 1183,
-    "occ_plays": 158,
-    "occ_high_score": 4259,
-    "total_score": 2414,
-    "last_updated": "7/9/2026, 11:14:27 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
     "team_name": "lost desert",
     "username": "uogy",
@@ -592,5 +574,23 @@
     "occ_high_score": 2257,
     "total_score": 3468,
     "last_updated": "7/9/2026, 11:41:47 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "cubscout30",
+    "yyb_wins": 53,
+    "yyb_draws": 0,
+    "yyb_high_score": 367,
+    "slsl_wins": 74,
+    "slsl_high_score": 671,
+    "msn_plays": 6,
+    "msn_high_score": 3518,
+    "sosd_plays": 56,
+    "sosd_high_score": 1183,
+    "occ_plays": 170,
+    "occ_high_score": 4259,
+    "total_score": 2518,
+    "last_updated": "7/9/2026, 11:41:49 PM"
   }
 ]

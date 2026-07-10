@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png",
-    "team_name": "terror mountain",
-    "username": "not_sporty",
-    "yyb_wins": 122,
-    "yyb_draws": 1,
-    "yyb_high_score": 771,
-    "slsl_wins": 5,
-    "slsl_high_score": 534,
-    "msn_plays": 3,
-    "msn_high_score": 4267,
-    "sosd_plays": 590,
-    "sosd_high_score": 1189,
-    "occ_plays": 20,
-    "occ_high_score": 2377,
-    "total_score": 3637,
-    "last_updated": "7/9/2026, 11:14:13 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
     "username": "acherub",
@@ -592,5 +574,23 @@
     "occ_high_score": 42,
     "total_score": 43,
     "last_updated": "7/9/2026, 11:31:12 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/terrormountain/logo.png",
+    "team_name": "terror mountain",
+    "username": "not_sporty",
+    "yyb_wins": 143,
+    "yyb_draws": 1,
+    "yyb_high_score": 909,
+    "slsl_wins": 5,
+    "slsl_high_score": 534,
+    "msn_plays": 3,
+    "msn_high_score": 4267,
+    "sosd_plays": 660,
+    "sosd_high_score": 1189,
+    "occ_plays": 20,
+    "occ_high_score": 2377,
+    "total_score": 4141,
+    "last_updated": "7/9/2026, 11:41:24 PM"
   }
 ]

@@ -38,24 +38,6 @@
   {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
     "team_name": "maraqua",
-    "username": "heart_stealer292",
-    "yyb_wins": 144,
-    "yyb_draws": 0,
-    "yyb_high_score": 941,
-    "slsl_wins": 21,
-    "slsl_high_score": 677,
-    "msn_plays": 110,
-    "msn_high_score": 5252,
-    "sosd_plays": 968,
-    "sosd_high_score": 1203,
-    "occ_plays": 300,
-    "occ_high_score": 6992,
-    "total_score": 6960,
-    "last_updated": "7/9/2026, 11:29:44 PM"
-  },
-  {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
     "username": "nostalgia",
     "yyb_wins": 108,
     "yyb_draws": 0,
@@ -592,5 +574,23 @@
     "occ_high_score": 1568,
     "total_score": 7043,
     "last_updated": "7/10/2026, 12:13:19 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "heart_stealer292",
+    "yyb_wins": 144,
+    "yyb_draws": 0,
+    "yyb_high_score": 941,
+    "slsl_wins": 21,
+    "slsl_high_score": 677,
+    "msn_plays": 140,
+    "msn_high_score": 5252,
+    "sosd_plays": 1006,
+    "sosd_high_score": 1203,
+    "occ_plays": 307,
+    "occ_high_score": 6992,
+    "total_score": 7199,
+    "last_updated": "7/10/2026, 12:13:22 PM"
   }
 ]

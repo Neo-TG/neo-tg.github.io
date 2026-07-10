@@ -108,24 +108,6 @@
     "last_updated": "7/9/2026, 11:56:57 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
-    "team_name": "haunted woods",
-    "username": "amondina",
-    "yyb_wins": 37,
-    "yyb_draws": 0,
-    "yyb_high_score": 214,
-    "slsl_wins": 3,
-    "slsl_high_score": 513,
-    "msn_plays": 24,
-    "msn_high_score": 5015,
-    "sosd_plays": 493,
-    "sosd_high_score": 1019,
-    "occ_plays": 80,
-    "occ_high_score": 2257,
-    "total_score": 2499,
-    "last_updated": "7/9/2026, 11:56:59 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
     "team_name": "darigan citadel",
     "username": "riseofzedekiel",
@@ -592,5 +574,23 @@
     "occ_high_score": 4998,
     "total_score": 3068,
     "last_updated": "7/9/2026, 11:41:41 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
+    "team_name": "haunted woods",
+    "username": "amondina",
+    "yyb_wins": 49,
+    "yyb_draws": 0,
+    "yyb_high_score": 250,
+    "slsl_wins": 3,
+    "slsl_high_score": 513,
+    "msn_plays": 24,
+    "msn_high_score": 5015,
+    "sosd_plays": 735,
+    "sosd_high_score": 1019,
+    "occ_plays": 95,
+    "occ_high_score": 2257,
+    "total_score": 3468,
+    "last_updated": "7/9/2026, 11:41:47 PM"
   }
 ]

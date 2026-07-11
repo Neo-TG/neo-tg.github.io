@@ -360,24 +360,6 @@
     "last_updated": "7/10/2026, 11:59:16 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
-    "team_name": "roo island",
-    "username": "schwarzes_schaaf",
-    "yyb_wins": 13,
-    "yyb_draws": 0,
-    "yyb_high_score": 80,
-    "slsl_wins": 6,
-    "slsl_high_score": 527,
-    "msn_plays": 65,
-    "msn_high_score": 5252,
-    "sosd_plays": 214,
-    "sosd_high_score": 1183,
-    "occ_plays": 21,
-    "occ_high_score": 2488,
-    "total_score": 1184,
-    "last_updated": "7/10/2026, 11:59:20 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/kreludor/logo.png",
     "team_name": "kreludor",
     "username": "5552343",
@@ -592,5 +574,23 @@
     "occ_high_score": 3923,
     "total_score": 2881,
     "last_updated": "7/11/2026, 12:01:46 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
+    "team_name": "roo island",
+    "username": "schwarzes_schaaf",
+    "yyb_wins": 13,
+    "yyb_draws": 0,
+    "yyb_high_score": 80,
+    "slsl_wins": 6,
+    "slsl_high_score": 527,
+    "msn_plays": 65,
+    "msn_high_score": 5252,
+    "sosd_plays": 214,
+    "sosd_high_score": 1183,
+    "occ_plays": 21,
+    "occ_high_score": 2488,
+    "total_score": 1184,
+    "last_updated": "7/11/2026, 12:01:49 AM"
   }
 ]

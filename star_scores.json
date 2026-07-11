@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
-    "team_name": "darigan citadel",
-    "username": "riseofzedekiel",
-    "yyb_wins": 95,
-    "yyb_draws": 0,
-    "yyb_high_score": 765,
-    "slsl_wins": 5,
-    "slsl_high_score": 646,
-    "msn_plays": 6,
-    "msn_high_score": 5603,
-    "sosd_plays": 20,
-    "sosd_high_score": 1159,
-    "occ_plays": 122,
-    "occ_high_score": 5117,
-    "total_score": 2068,
-    "last_updated": "7/10/2026, 11:59:11 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
     "team_name": "moltara",
     "username": "catchinglights",
@@ -592,5 +574,23 @@
     "occ_high_score": 5658,
     "total_score": 2689,
     "last_updated": "7/11/2026, 12:12:48 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
+    "team_name": "darigan citadel",
+    "username": "riseofzedekiel",
+    "yyb_wins": 95,
+    "yyb_draws": 0,
+    "yyb_high_score": 765,
+    "slsl_wins": 5,
+    "slsl_high_score": 646,
+    "msn_plays": 6,
+    "msn_high_score": 5603,
+    "sosd_plays": 20,
+    "sosd_high_score": 1159,
+    "occ_plays": 122,
+    "occ_high_score": 5117,
+    "total_score": 2068,
+    "last_updated": "7/11/2026, 12:12:54 AM"
   }
 ]

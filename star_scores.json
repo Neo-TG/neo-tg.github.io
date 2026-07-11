@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "16th_serendipity",
-    "yyb_wins": 10,
-    "yyb_draws": 0,
-    "yyb_high_score": 46,
-    "slsl_wins": 5,
-    "slsl_high_score": 504,
-    "msn_plays": 3,
-    "msn_high_score": 3993,
-    "sosd_plays": 95,
-    "sosd_high_score": 1196,
-    "occ_plays": 4,
-    "occ_high_score": 1134,
-    "total_score": 504,
-    "last_updated": "7/10/2026, 11:59:36 PM"
-  },
-  {
     "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
     "team_name": "neopia central",
     "username": "athyx3",
@@ -592,5 +574,23 @@
     "occ_high_score": 4635,
     "total_score": 625,
     "last_updated": "7/11/2026, 12:13:44 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "16th_serendipity",
+    "yyb_wins": 10,
+    "yyb_draws": 0,
+    "yyb_high_score": 46,
+    "slsl_wins": 5,
+    "slsl_high_score": 504,
+    "msn_plays": 3,
+    "msn_high_score": 3993,
+    "sosd_plays": 95,
+    "sosd_high_score": 1196,
+    "occ_plays": 4,
+    "occ_high_score": 1134,
+    "total_score": 504,
+    "last_updated": "7/11/2026, 12:13:48 AM"
   }
 ]

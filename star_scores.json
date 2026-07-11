@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
-    "team_name": "lost desert",
-    "username": "uogy",
-    "yyb_wins": 144,
-    "yyb_draws": 0,
-    "yyb_high_score": 1190,
-    "slsl_wins": 5,
-    "slsl_high_score": 503,
-    "msn_plays": 152,
-    "msn_high_score": 5427,
-    "sosd_plays": 249,
-    "sosd_high_score": 1180,
-    "occ_plays": 5,
-    "occ_high_score": 1944,
-    "total_score": 3294,
-    "last_updated": "7/10/2026, 12:30:13 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
     "team_name": "tyrannia",
     "username": "tatyanne",
@@ -592,5 +574,23 @@
     "occ_high_score": 5923,
     "total_score": 3308,
     "last_updated": "7/11/2026, 12:12:05 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
+    "team_name": "lost desert",
+    "username": "uogy",
+    "yyb_wins": 180,
+    "yyb_draws": 0,
+    "yyb_high_score": 1501,
+    "slsl_wins": 5,
+    "slsl_high_score": 503,
+    "msn_plays": 152,
+    "msn_high_score": 5427,
+    "sosd_plays": 492,
+    "sosd_high_score": 1183,
+    "occ_plays": 5,
+    "occ_high_score": 1944,
+    "total_score": 4527,
+    "last_updated": "7/11/2026, 12:12:13 AM"
   }
 ]

@@ -54,24 +54,6 @@
     "last_updated": "7/11/2026, 12:28:19 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "l_like_animals",
-    "yyb_wins": 98,
-    "yyb_draws": 0,
-    "yyb_high_score": 1085,
-    "slsl_wins": 21,
-    "slsl_high_score": 703,
-    "msn_plays": 16,
-    "msn_high_score": 4900,
-    "sosd_plays": 566,
-    "sosd_high_score": 1187,
-    "occ_plays": 108,
-    "occ_high_score": 6825,
-    "total_score": 3868,
-    "last_updated": "7/11/2026, 12:29:29 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "water_park1993",
@@ -592,5 +574,23 @@
     "occ_high_score": 8608,
     "total_score": 4538,
     "last_updated": "7/11/2026, 11:11:54 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "l_like_animals",
+    "yyb_wins": 98,
+    "yyb_draws": 0,
+    "yyb_high_score": 1085,
+    "slsl_wins": 21,
+    "slsl_high_score": 703,
+    "msn_plays": 16,
+    "msn_high_score": 4900,
+    "sosd_plays": 566,
+    "sosd_high_score": 1187,
+    "occ_plays": 140,
+    "occ_high_score": 6825,
+    "total_score": 4028,
+    "last_updated": "7/11/2026, 11:11:56 PM"
   }
 ]

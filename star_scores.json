@@ -36,24 +36,6 @@
     "last_updated": "7/11/2026, 12:25:55 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
-    "team_name": "krawk island",
-    "username": "d_a_r_e",
-    "yyb_wins": 3,
-    "yyb_draws": 0,
-    "yyb_high_score": 13,
-    "slsl_wins": 2,
-    "slsl_high_score": 505,
-    "msn_plays": 2,
-    "msn_high_score": 3778,
-    "sosd_plays": 750,
-    "sosd_high_score": 1164,
-    "occ_plays": 250,
-    "occ_high_score": 5923,
-    "total_score": 3568,
-    "last_updated": "7/11/2026, 12:28:19 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "water_park1993",
@@ -592,5 +574,23 @@
     "occ_high_score": 6825,
     "total_score": 4028,
     "last_updated": "7/11/2026, 11:11:56 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
+    "team_name": "krawk island",
+    "username": "d_a_r_e",
+    "yyb_wins": 4,
+    "yyb_draws": 0,
+    "yyb_high_score": 15,
+    "slsl_wins": 3,
+    "slsl_high_score": 505,
+    "msn_plays": 3,
+    "msn_high_score": 3778,
+    "sosd_plays": 862,
+    "sosd_high_score": 1164,
+    "occ_plays": 273,
+    "occ_high_score": 5923,
+    "total_score": 4046,
+    "last_updated": "7/11/2026, 11:11:59 PM"
   }
 ]

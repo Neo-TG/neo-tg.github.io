@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
-    "team_name": "lost desert",
-    "username": "uogy",
-    "yyb_wins": 180,
-    "yyb_draws": 0,
-    "yyb_high_score": 1501,
-    "slsl_wins": 5,
-    "slsl_high_score": 503,
-    "msn_plays": 152,
-    "msn_high_score": 5427,
-    "sosd_plays": 733,
-    "sosd_high_score": 1183,
-    "occ_plays": 5,
-    "occ_high_score": 1944,
-    "total_score": 5250,
-    "last_updated": "7/11/2026, 11:56:55 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
     "team_name": "haunted woods",
     "username": "amondina",
@@ -592,5 +574,23 @@
     "occ_high_score": 3999,
     "total_score": 5846,
     "last_updated": "7/11/2026, 11:11:36 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
+    "team_name": "lost desert",
+    "username": "uogy",
+    "yyb_wins": 216,
+    "yyb_draws": 0,
+    "yyb_high_score": 1776,
+    "slsl_wins": 5,
+    "slsl_high_score": 503,
+    "msn_plays": 152,
+    "msn_high_score": 5427,
+    "sosd_plays": 733,
+    "sosd_high_score": 1183,
+    "occ_plays": 70,
+    "occ_high_score": 3731,
+    "total_score": 6079,
+    "last_updated": "7/11/2026, 11:11:40 PM"
   }
 ]

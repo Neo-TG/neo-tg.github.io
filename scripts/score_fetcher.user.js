@@ -52,7 +52,8 @@
 			"acherub",
 			"sandralala",
 			"sosunub",
-			"lynnrules118108"
+			"lynnrules118108",
+			"peter_mgeets"
                     ]
 
         const MOON_PLAYERS = [

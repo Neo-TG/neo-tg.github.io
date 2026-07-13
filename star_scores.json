@@ -18,24 +18,6 @@
     "last_updated": "7/12/2026, 9:13:12 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
-    "team_name": "brightvale",
-    "username": "lynnrules118108",
-    "yyb_wins": 144,
-    "yyb_draws": 0,
-    "yyb_high_score": 1186,
-    "slsl_wins": 27,
-    "slsl_high_score": 590,
-    "msn_plays": 85,
-    "msn_high_score": 4045,
-    "sosd_plays": 831,
-    "sosd_high_score": 1183,
-    "occ_plays": 396,
-    "occ_high_score": 6791,
-    "total_score": 7014,
-    "last_updated": "7/13/2026, 9:51:27 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/lostdesert/logo.png",
     "team_name": "lost desert",
     "username": "uogy",
@@ -610,5 +592,23 @@
     "occ_high_score": 1568,
     "total_score": 7043,
     "last_updated": "7/13/2026, 11:02:47 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
+    "team_name": "brightvale",
+    "username": "lynnrules118108",
+    "yyb_wins": 144,
+    "yyb_draws": 0,
+    "yyb_high_score": 1186,
+    "slsl_wins": 27,
+    "slsl_high_score": 590,
+    "msn_plays": 85,
+    "msn_high_score": 4045,
+    "sosd_plays": 831,
+    "sosd_high_score": 1183,
+    "occ_plays": 396,
+    "occ_high_score": 6791,
+    "total_score": 7014,
+    "last_updated": "7/13/2026, 11:02:50 AM"
   }
 ]

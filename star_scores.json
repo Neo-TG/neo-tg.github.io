@@ -74,24 +74,6 @@
   {
     "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
     "team_name": "neopia central",
-    "username": "athyx3",
-    "yyb_wins": 10,
-    "yyb_draws": 0,
-    "yyb_high_score": 40,
-    "slsl_wins": 3,
-    "slsl_high_score": 484,
-    "msn_plays": 32,
-    "msn_high_score": 6176,
-    "sosd_plays": 54,
-    "sosd_high_score": 1148,
-    "occ_plays": 30,
-    "occ_high_score": 2741,
-    "total_score": 578,
-    "last_updated": "7/12/2026, 9:13:07 PM"
-  },
-  {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
     "username": "heroically",
     "yyb_wins": 4,
     "yyb_draws": 0,
@@ -610,5 +592,23 @@
     "occ_high_score": 1134,
     "total_score": 579,
     "last_updated": "7/13/2026, 9:53:24 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "athyx3",
+    "yyb_wins": 10,
+    "yyb_draws": 0,
+    "yyb_high_score": 40,
+    "slsl_wins": 3,
+    "slsl_high_score": 484,
+    "msn_plays": 32,
+    "msn_high_score": 6176,
+    "sosd_plays": 54,
+    "sosd_high_score": 1148,
+    "occ_plays": 30,
+    "occ_high_score": 2741,
+    "total_score": 578,
+    "last_updated": "7/13/2026, 9:53:28 AM"
   }
 ]

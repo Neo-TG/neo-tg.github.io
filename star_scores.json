@@ -18,24 +18,6 @@
     "last_updated": "7/12/2026, 9:12:33 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
-    "team_name": "moltara",
-    "username": "catchinglights",
-    "yyb_wins": 102,
-    "yyb_draws": 0,
-    "yyb_high_score": 1066,
-    "slsl_wins": 3,
-    "slsl_high_score": 675,
-    "msn_plays": 3,
-    "msn_high_score": 3094,
-    "sosd_plays": 540,
-    "sosd_high_score": 1189,
-    "occ_plays": 5,
-    "occ_high_score": 2218,
-    "total_score": 3112,
-    "last_updated": "7/12/2026, 9:12:37 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
     "team_name": "darigan citadel",
     "username": "roxi2rox",
@@ -610,5 +592,23 @@
     "occ_high_score": 6719,
     "total_score": 4099,
     "last_updated": "7/13/2026, 9:52:24 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
+    "team_name": "moltara",
+    "username": "catchinglights",
+    "yyb_wins": 102,
+    "yyb_draws": 0,
+    "yyb_high_score": 1066,
+    "slsl_wins": 3,
+    "slsl_high_score": 675,
+    "msn_plays": 3,
+    "msn_high_score": 3094,
+    "sosd_plays": 540,
+    "sosd_high_score": 1189,
+    "occ_plays": 5,
+    "occ_high_score": 2218,
+    "total_score": 3112,
+    "last_updated": "7/13/2026, 9:52:54 AM"
   }
 ]

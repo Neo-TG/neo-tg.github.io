@@ -108,24 +108,6 @@
     "last_updated": "7/13/2026, 9:52:17 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
-    "team_name": "moltara",
-    "username": "catchinglights",
-    "yyb_wins": 102,
-    "yyb_draws": 0,
-    "yyb_high_score": 1066,
-    "slsl_wins": 3,
-    "slsl_high_score": 675,
-    "msn_plays": 3,
-    "msn_high_score": 3094,
-    "sosd_plays": 540,
-    "sosd_high_score": 1189,
-    "occ_plays": 5,
-    "occ_high_score": 2218,
-    "total_score": 3112,
-    "last_updated": "7/13/2026, 9:52:54 AM"
-  },
-  {
     "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
     "team_name": "neopia central",
     "username": "athyx3",
@@ -610,5 +592,23 @@
     "occ_high_score": 2276,
     "total_score": 3180,
     "last_updated": "7/13/2026, 11:03:28 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/moltara/logo.png",
+    "team_name": "moltara",
+    "username": "catchinglights",
+    "yyb_wins": 102,
+    "yyb_draws": 0,
+    "yyb_high_score": 1066,
+    "slsl_wins": 3,
+    "slsl_high_score": 675,
+    "msn_plays": 3,
+    "msn_high_score": 3094,
+    "sosd_plays": 540,
+    "sosd_high_score": 1189,
+    "occ_plays": 5,
+    "occ_high_score": 2218,
+    "total_score": 3112,
+    "last_updated": "7/13/2026, 11:03:32 AM"
   }
 ]

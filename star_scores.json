@@ -72,24 +72,6 @@
     "last_updated": "7/12/2026, 9:13:04 PM"
   },
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "heroically",
-    "yyb_wins": 4,
-    "yyb_draws": 0,
-    "yyb_high_score": 26,
-    "slsl_wins": 2,
-    "slsl_high_score": 474,
-    "msn_plays": 2,
-    "msn_high_score": 4192,
-    "sosd_plays": 2,
-    "sosd_high_score": 746,
-    "occ_plays": 3,
-    "occ_high_score": 1181,
-    "total_score": 103,
-    "last_updated": "7/12/2026, 9:13:10 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
     "team_name": "haunted woods",
     "username": "sweetrayofsunshine94",
@@ -610,5 +592,23 @@
     "occ_high_score": 2741,
     "total_score": 578,
     "last_updated": "7/13/2026, 9:53:28 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "heroically",
+    "yyb_wins": 4,
+    "yyb_draws": 0,
+    "yyb_high_score": 26,
+    "slsl_wins": 2,
+    "slsl_high_score": 474,
+    "msn_plays": 2,
+    "msn_high_score": 4192,
+    "sosd_plays": 2,
+    "sosd_high_score": 746,
+    "occ_plays": 3,
+    "occ_high_score": 1181,
+    "total_score": 103,
+    "last_updated": "7/13/2026, 9:53:35 AM"
   }
 ]

@@ -396,24 +396,6 @@
     "last_updated": "7/12/2026, 9:13:12 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
-    "team_name": "darigan citadel",
-    "username": "rotfljenn",
-    "yyb_wins": 145,
-    "yyb_draws": 1,
-    "yyb_high_score": 1161,
-    "slsl_wins": 71,
-    "slsl_high_score": 643,
-    "msn_plays": 707,
-    "msn_high_score": 4499,
-    "sosd_plays": 867,
-    "sosd_high_score": 1098,
-    "occ_plays": 268,
-    "occ_high_score": 3816,
-    "total_score": 8802,
-    "last_updated": "7/12/2026, 9:22:21 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/krawkisland/logo.png",
     "team_name": "krawk island",
     "username": "bubble_gum_girl182",
@@ -610,5 +592,23 @@
     "occ_high_score": 8994,
     "total_score": 10551,
     "last_updated": "7/13/2026, 9:51:09 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/darigancitadel/logo.png",
+    "team_name": "darigan citadel",
+    "username": "rotfljenn",
+    "yyb_wins": 181,
+    "yyb_draws": 1,
+    "yyb_high_score": 1454,
+    "slsl_wins": 71,
+    "slsl_high_score": 643,
+    "msn_plays": 707,
+    "msn_high_score": 4499,
+    "sosd_plays": 867,
+    "sosd_high_score": 1098,
+    "occ_plays": 268,
+    "occ_high_score": 3816,
+    "total_score": 9306,
+    "last_updated": "7/13/2026, 9:51:12 AM"
   }
 ]

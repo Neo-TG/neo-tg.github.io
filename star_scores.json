@@ -1,23 +1,5 @@
 [
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "sosunub",
-    "yyb_wins": 10,
-    "yyb_draws": 1,
-    "yyb_high_score": 60,
-    "slsl_wins": 10,
-    "slsl_high_score": 603,
-    "msn_plays": 60,
-    "msn_high_score": 5802,
-    "sosd_plays": 50,
-    "sosd_high_score": 1198,
-    "occ_plays": 525,
-    "occ_high_score": 6498,
-    "total_score": 3195,
-    "last_updated": "7/12/2026, 9:12:33 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/rooisland/logo.png",
     "team_name": "roo island",
     "username": "schwarzes_schaaf",
@@ -610,5 +592,23 @@
     "occ_high_score": 5889,
     "total_score": 3410,
     "last_updated": "7/13/2026, 10:41:46 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "sosunub",
+    "yyb_wins": 10,
+    "yyb_draws": 1,
+    "yyb_high_score": 60,
+    "slsl_wins": 10,
+    "slsl_high_score": 603,
+    "msn_plays": 92,
+    "msn_high_score": 5802,
+    "sosd_plays": 150,
+    "sosd_high_score": 1200,
+    "occ_plays": 600,
+    "occ_high_score": 6498,
+    "total_score": 3966,
+    "last_updated": "7/13/2026, 10:41:49 AM"
   }
 ]

@@ -360,24 +360,6 @@
     "last_updated": "7/13/2026, 11:03:23 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
-    "team_name": "tyrannia",
-    "username": "tatyanne",
-    "yyb_wins": 31,
-    "yyb_draws": 1,
-    "yyb_high_score": 153,
-    "slsl_wins": 13,
-    "slsl_high_score": 534,
-    "msn_plays": 4,
-    "msn_high_score": 3536,
-    "sosd_plays": 843,
-    "sosd_high_score": 1181,
-    "occ_plays": 15,
-    "occ_high_score": 2276,
-    "total_score": 3180,
-    "last_updated": "7/13/2026, 11:03:28 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png",
     "team_name": "meridell",
     "username": "speed_e5",
@@ -610,5 +592,23 @@
     "occ_high_score": 2218,
     "total_score": 3112,
     "last_updated": "7/13/2026, 12:25:45 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
+    "team_name": "tyrannia",
+    "username": "tatyanne",
+    "yyb_wins": 31,
+    "yyb_draws": 1,
+    "yyb_high_score": 153,
+    "slsl_wins": 13,
+    "slsl_high_score": 534,
+    "msn_plays": 4,
+    "msn_high_score": 3536,
+    "sosd_plays": 843,
+    "sosd_high_score": 1181,
+    "occ_plays": 15,
+    "occ_high_score": 2276,
+    "total_score": 3180,
+    "last_updated": "7/13/2026, 12:26:20 PM"
   }
 ]

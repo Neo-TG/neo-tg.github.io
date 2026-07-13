@@ -414,24 +414,6 @@
     "last_updated": "7/13/2026, 10:41:49 AM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/mysteryisland/logo.png",
-    "team_name": "mystery island",
-    "username": "id_24",
-    "yyb_wins": 12,
-    "yyb_draws": 1,
-    "yyb_high_score": 93,
-    "slsl_wins": 7,
-    "slsl_high_score": 587,
-    "msn_plays": 15,
-    "msn_high_score": 4154,
-    "sosd_plays": 20,
-    "sosd_high_score": 1159,
-    "occ_plays": 90,
-    "occ_high_score": 5151,
-    "total_score": 793,
-    "last_updated": "7/13/2026, 10:43:06 AM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png",
     "team_name": "meridell",
     "username": "speed_e5",
@@ -610,5 +592,23 @@
     "occ_high_score": 4635,
     "total_score": 1147,
     "last_updated": "7/13/2026, 10:44:57 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/mysteryisland/logo.png",
+    "team_name": "mystery island",
+    "username": "id_24",
+    "yyb_wins": 12,
+    "yyb_draws": 1,
+    "yyb_high_score": 93,
+    "slsl_wins": 7,
+    "slsl_high_score": 587,
+    "msn_plays": 15,
+    "msn_high_score": 4154,
+    "sosd_plays": 20,
+    "sosd_high_score": 1159,
+    "occ_plays": 90,
+    "occ_high_score": 5151,
+    "total_score": 793,
+    "last_updated": "7/13/2026, 10:44:59 AM"
   }
 ]

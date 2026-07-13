@@ -54,24 +54,6 @@
     "last_updated": "7/11/2026, 10:57:42 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
-    "team_name": "haunted woods",
-    "username": "sandralala",
-    "yyb_wins": 74,
-    "yyb_draws": 0,
-    "yyb_high_score": 600,
-    "slsl_wins": 162,
-    "slsl_high_score": 649,
-    "msn_plays": 727,
-    "msn_high_score": 4485,
-    "sosd_plays": 727,
-    "sosd_high_score": 1092,
-    "occ_plays": 5,
-    "occ_high_score": 1568,
-    "total_score": 7043,
-    "last_updated": "7/11/2026, 10:57:48 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
     "team_name": "brightvale",
     "username": "lynnrules118108",
@@ -592,5 +574,23 @@
     "occ_high_score": 8994,
     "total_score": 10188,
     "last_updated": "7/12/2026, 9:11:30 PM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/hauntedwoods/logo.png",
+    "team_name": "haunted woods",
+    "username": "sandralala",
+    "yyb_wins": 74,
+    "yyb_draws": 0,
+    "yyb_high_score": 600,
+    "slsl_wins": 162,
+    "slsl_high_score": 649,
+    "msn_plays": 727,
+    "msn_high_score": 4485,
+    "sosd_plays": 727,
+    "sosd_high_score": 1092,
+    "occ_plays": 5,
+    "occ_high_score": 1568,
+    "total_score": 7043,
+    "last_updated": "7/12/2026, 9:11:39 PM"
   }
 ]

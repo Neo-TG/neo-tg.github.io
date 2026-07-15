@@ -414,24 +414,6 @@
     "last_updated": "7/14/2026, 12:55:02 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "nostalgia",
-    "yyb_wins": 108,
-    "yyb_draws": 0,
-    "yyb_high_score": 1149,
-    "slsl_wins": 15,
-    "slsl_high_score": 593,
-    "msn_plays": 5,
-    "msn_high_score": 4585,
-    "sosd_plays": 1452,
-    "sosd_high_score": 1206,
-    "occ_plays": 253,
-    "occ_high_score": 3999,
-    "total_score": 7298,
-    "last_updated": "7/14/2026, 12:55:17 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/brightvale/logo.png",
     "team_name": "brightvale",
     "username": "lynnrules118108",
@@ -610,5 +592,23 @@
     "occ_high_score": 3731,
     "total_score": 8747,
     "last_updated": "7/15/2026, 12:00:25 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "nostalgia",
+    "yyb_wins": 108,
+    "yyb_draws": 0,
+    "yyb_high_score": 1149,
+    "slsl_wins": 15,
+    "slsl_high_score": 593,
+    "msn_plays": 55,
+    "msn_high_score": 5263,
+    "sosd_plays": 1694,
+    "sosd_high_score": 1206,
+    "occ_plays": 328,
+    "occ_high_score": 5024,
+    "total_score": 8549,
+    "last_updated": "7/15/2026, 12:00:29 AM"
   }
 ]

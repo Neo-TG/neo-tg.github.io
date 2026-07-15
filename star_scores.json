@@ -180,24 +180,6 @@
     "last_updated": "7/14/2026, 12:23:16 PM"
   },
   {
-    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
-    "team_name": "maraqua",
-    "username": "laura_ow08",
-    "yyb_wins": 151,
-    "yyb_draws": 0,
-    "yyb_high_score": 898,
-    "slsl_wins": 9,
-    "slsl_high_score": 544,
-    "msn_plays": 45,
-    "msn_high_score": 5739,
-    "sosd_plays": 71,
-    "sosd_high_score": 1162,
-    "occ_plays": 254,
-    "occ_high_score": 3527,
-    "total_score": 3822,
-    "last_updated": "7/14/2026, 12:23:21 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/tyrannia/logo.png",
     "team_name": "tyrannia",
     "username": "tatyanne",
@@ -610,5 +592,23 @@
     "occ_high_score": 2218,
     "total_score": 4956,
     "last_updated": "7/15/2026, 12:02:14 AM"
+  },
+  {
+    "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/maraqua/logo.png",
+    "team_name": "maraqua",
+    "username": "laura_ow08",
+    "yyb_wins": 169,
+    "yyb_draws": 0,
+    "yyb_high_score": 1005,
+    "slsl_wins": 9,
+    "slsl_high_score": 544,
+    "msn_plays": 153,
+    "msn_high_score": 5739,
+    "sosd_plays": 179,
+    "sosd_high_score": 1162,
+    "occ_plays": 329,
+    "occ_high_score": 3527,
+    "total_score": 5097,
+    "last_updated": "7/15/2026, 12:02:18 AM"
   }
 ]

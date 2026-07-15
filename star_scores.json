@@ -234,24 +234,6 @@
     "last_updated": "7/14/2026, 12:23:28 PM"
   },
   {
-    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
-    "team_name": "neopia central",
-    "username": "peter_mgeets",
-    "yyb_wins": 82,
-    "yyb_draws": 2,
-    "yyb_high_score": 691,
-    "slsl_wins": 12,
-    "slsl_high_score": 613,
-    "msn_plays": 26,
-    "msn_high_score": 5721,
-    "sosd_plays": 284,
-    "sosd_high_score": 1198,
-    "occ_plays": 383,
-    "occ_high_score": 5889,
-    "total_score": 4113,
-    "last_updated": "7/14/2026, 12:23:31 PM"
-  },
-  {
     "team_logo": "https://images.neopets.com/altador/altadorcup/2010/popups/meridell/logo.png",
     "team_name": "meridell",
     "username": "speed_e5",
@@ -610,5 +592,23 @@
     "occ_high_score": 6719,
     "total_score": 5705,
     "last_updated": "7/15/2026, 12:01:59 AM"
+  },
+  {
+    "team_logo": "https://file.garden/aTZekCJbkUlB56gX/Tomodachi/stk_team_neopiacentral.png",
+    "team_name": "neopia central",
+    "username": "peter_mgeets",
+    "yyb_wins": 88,
+    "yyb_draws": 2,
+    "yyb_high_score": 734,
+    "slsl_wins": 12,
+    "slsl_high_score": 613,
+    "msn_plays": 26,
+    "msn_high_score": 5721,
+    "sosd_plays": 526,
+    "sosd_high_score": 1198,
+    "occ_plays": 407,
+    "occ_high_score": 5889,
+    "total_score": 5043,
+    "last_updated": "7/15/2026, 12:02:07 AM"
   }
 ]
